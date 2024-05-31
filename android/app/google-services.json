@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391765476049",
+    "project_id": "tubes-kel9-2350d",
+    "storage_bucket": "tubes-kel9-2350d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391765476049:android:3d211db18e601b9af83bf0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv0yoQ4hM3rKdz-hiDf0IPtYz7PzaJdTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
