@@ -2,7 +2,7 @@ Kelompok 9 DreamTech Kelas TI2
 
 JUDUL: Nutri Food
 
-Disusun oleh:
+Disusun oleh: 
 Daniya Auly Yasmin (21102041)
 Ika Thol’atun Khasanah (21102055)
 Rizky Cristian S (21102248)
